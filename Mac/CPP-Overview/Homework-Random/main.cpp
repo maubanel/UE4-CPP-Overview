@@ -24,7 +24,7 @@ int main() {
 
     srand (time(NULL));
     
-    int RanNumber = rand() % 10;
+    int RanNumber = rand() % 11;
     cout << "Random number is: " << RanNumber << '\n';
     return 0;
 }

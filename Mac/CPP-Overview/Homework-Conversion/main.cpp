@@ -30,7 +30,7 @@ int main() {
     float HottestF = (1.42E+33 * 9/5) + 32;
     float ColdestF = (-273.15 * 9/5) + 32;
     
-    cout << ColdestF << '\n';
+    //cout << ColdestF << '\n';
     
     // Convert 30°C to °F
     float C1 = 30;
